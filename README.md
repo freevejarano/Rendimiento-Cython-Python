@@ -10,9 +10,10 @@
 <br>
 <i><b>TEMA:</b></i> Rendimiento Cython / Python
 <br>
-26/04/21
+06/05/2021
 <br>
 </FONT>
 </div>
+
 ## Gráfica de Rendimiento Cython / Python:
-![image](https://user-images.githubusercontent.com/45238389/117242800-94d02e80-adfb-11eb-824d-3dfbd8a7069b.png)
+![image](https://user-images.githubusercontent.com/45238389/117299695-717aa300-ae3e-11eb-8850-c5c0cc99e367.png)
